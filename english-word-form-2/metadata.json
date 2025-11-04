@@ -1,0 +1,5 @@
+{
+  "name": "English Word Form Practice",
+  "description": "An application to help students practice English word forms for the 10th-grade entrance exam. It features multiple-choice questions based on sentence context, with scoring and pagination.",
+  "requestFramePermissions": []
+}
